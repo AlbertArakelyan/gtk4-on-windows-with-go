@@ -77,5 +77,6 @@ The same is available through make: `mingw32-make build | run | package | clean 
 It covers how GTK on Windows works, setup from scratch, PATH and DLLs, gotk4, every script line by line, the `dist` bundle, how the code works, and troubleshooting.
 
 Building on Linux? See [LINUX_BUILD.md](LINUX_BUILD.md) (not tested yet).
+Curious how the same setup looks in Rust? See [RUST_BUILD.md](RUST_BUILD.md).
 
 See also [MSYS2-ENVIRONMENTS.md](MSYS2-ENVIRONMENTS.md): which msys2 terminal to use, and which packages to install for make, cmake, g++ and more.
