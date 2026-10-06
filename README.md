@@ -76,4 +76,6 @@ The same is available through make: `mingw32-make build | run | package | clean 
 📖 **For the full guide, read [DEV_DOCS.md](DEV_DOCS.md).**
 It covers how GTK on Windows works, setup from scratch, PATH and DLLs, gotk4, every script line by line, the `dist` bundle, how the code works, and troubleshooting.
 
+Building on Linux? See [LINUX_BUILD.md](LINUX_BUILD.md) (not tested yet).
+
 See also [MSYS2-ENVIRONMENTS.md](MSYS2-ENVIRONMENTS.md): which msys2 terminal to use, and which packages to install for make, cmake, g++ and more.
